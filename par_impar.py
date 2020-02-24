@@ -6,7 +6,7 @@ class parImpar:
         if nu == 0:
             print ("Este número es par.")
         elif nu%2 == 0:
-            print ("Este numero es par")
+            print ("Este número es par")
         else:
             print ("Este numero es impar")
 
